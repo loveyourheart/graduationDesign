@@ -4,21 +4,53 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="84fbf363-3937-4454-aee1-cb943b4e27ac" name="变更" comment="" />
+    <list default="true" id="84fbf363-3937-4454-aee1-cb943b4e27ac" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/backendDesign/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backendDesign/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backendDesign/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backendDesign/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backendDesign/src/main/java/com/example/backenddesign/BackendDesignApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backendDesign/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backendDesign/src/test/java/com/example/backenddesign/BackendDesignApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webdesign/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webdesign/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webdesign/babel.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webdesign/jsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webdesign/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webdesign/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webdesign/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webdesign/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webdesign/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webdesign/src/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webdesign/src/components/HelloWorld.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webdesign/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webdesign/vue.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2DKYzZH8gOPUe3JiIMuZYthfytU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -37,10 +69,14 @@
       <option name="presentableId" value="Default" />
       <updated>1660449507216</updated>
       <workItem from="1660449510822" duration="1274000" />
+      <workItem from="1660464217124" duration="1069000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
